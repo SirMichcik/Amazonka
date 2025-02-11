@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>raport_window</class>
+ <widget class="QWidget" name="raport_window">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Raport</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QComboBox" name="typeFilter">
+     <property name="editable">
+      <bool>false</bool>
+     </property>
+     <item>
+      <property name="text">
+       <string>Wszystkie</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>film</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>book</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>series</string>
+      </property>
+     </item>
+    </widget>
+   </item>
+   <item>
+    <widget class="QTableWidget" name="tableWidget">
+     <property name="columnCount">
+      <number>4</number>
+     </property>
+     <property name="horizontalHeaderLabels">
+      <stringlist>
+       <string>Tytuł</string>
+       <string>Typ</string>
+       <string>Wyświetlenia</string>
+       <string>Dostępy</string>
+      </stringlist>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

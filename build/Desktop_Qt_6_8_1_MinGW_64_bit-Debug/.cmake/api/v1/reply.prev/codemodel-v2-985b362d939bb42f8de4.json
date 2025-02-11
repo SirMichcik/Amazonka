@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-117fac1589d87ec4d41d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Amazonka",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Amazonka::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Amazonka-Debug-69a7f26286db65328a8b.json",
+					"name" : "Amazonka",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Amazonka_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Amazonka_autogen-Debug-0a6a6a6e134bd71e9a02.json",
+					"name" : "Amazonka_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Amazonka_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Amazonka_autogen_timestamp_deps-Debug-b1b453b008d97a531b27.json",
+					"name" : "Amazonka_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/micha/Desktop/Amazonka"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

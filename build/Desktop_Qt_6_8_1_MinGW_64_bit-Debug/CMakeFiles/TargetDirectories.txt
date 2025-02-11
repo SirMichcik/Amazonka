@@ -1,0 +1,9 @@
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Amazonka.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Amazonka_autogen_timestamp_deps.dir
+C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/Amazonka_autogen.dir

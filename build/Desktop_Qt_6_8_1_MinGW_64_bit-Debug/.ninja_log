@@ -1,0 +1,22 @@
+# ninja log v6
+357	5513	7609277719356312	CMakeFiles/Amazonka.dir/edit_window.c++.obj	756ee3a37489cce1
+1056	6480	7609248186384914	CMakeFiles/Amazonka.dir/Amazonka_autogen/mocs_compilation.cpp.obj	a860d1d9de1cd4ed
+10	952	7609209739398886	build.ninja	612d4eceb72c4490
+45	349	7609277716245990	Amazonka_autogen/mocs_compilation.cpp	46a913f061e2adca
+45	349	7609277716245990	Amazonka_autogen/timestamp	46a913f061e2adca
+45	349	7609277716245990	C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Amazonka_autogen/timestamp	46a913f061e2adca
+45	349	7609277716245990	C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Amazonka_autogen/mocs_compilation.cpp	46a913f061e2adca
+287	3568	7599770583523020	CMakeFiles/Amazonka.dir/main.c++.obj	eed3f3ec3f89f2e1
+350	5685	7609277719296331	CMakeFiles/Amazonka.dir/login_window.c++.obj	a1226e3cc6f866d
+9176	9848	7609277807542496	Amazonka.exe	32b3374a67e76b0e
+236	320	7598934167277865	.qt/rcc/qrc_resources.cpp	fb7d3e71705ba205
+236	320	7598934167277865	C:/Users/micha/Desktop/Amazonka/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/qrc_resources.cpp	fb7d3e71705ba205
+324	1029	7598934167367877	CMakeFiles/Amazonka.dir/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/qrc_resources.cpp.obj	4bb3fdc2c8825426
+354	5802	7609277719326316	CMakeFiles/Amazonka.dir/menu_window.c++.obj	f21ef3c8cea47192
+265	3738	7608120929035909	CMakeFiles/Amazonka.dir/user.c++.obj	73c121bec4dbebed
+2015	7083	7609233753037996	CMakeFiles/Amazonka.dir/content.c++.obj	d2c98b872fe4b9dd
+360	5507	7609277719386307	CMakeFiles/Amazonka.dir/add_window.c++.obj	41d35e71d25ad68d
+363	5364	7609277719426312	CMakeFiles/Amazonka.dir/zakup_window.c++.obj	2cd431b65b9e674f
+342	5374	7609237060462629	CMakeFiles/Amazonka.dir/zakup.c++.obj	3883567d75e45631
+5365	9175	7609277769434289	CMakeFiles/Amazonka.dir/raport_window.c++.obj	bd8f366a0244b822
+366	5701	7609277719456344	CMakeFiles/Amazonka.dir/biblioteka_window.c++.obj	d77de5edbaff2872
